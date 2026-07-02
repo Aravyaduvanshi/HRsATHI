@@ -1,0 +1,86 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Google Fonts ─────────────────────────────────────────────────────────── */
+
+
+/* ── CSS custom properties ────────────────────────────────────────────────── */
+:root {
+  --font-inter: "Inter", system-ui, sans-serif;
+  --font-mono: "Fira Code", "Cascadia Code", monospace;
+
+  /* Surfaces */
+  --surface:         hsl(220 14% 8%);
+  --surface-elevated:hsl(220 12% 12%);
+  --surface-border:  hsl(220 12% 18%);
+
+  /* Brand */
+  --brand:           hsl(222 70% 50%);
+  --brand-glow:      hsl(222 70% 50% / 0.25);
+
+  /* Score colours */
+  --score-high:      hsl(142 72% 50%);
+  --score-mid:       hsl(38 92% 54%);
+  --score-low:       hsl(0 78% 55%);
+}
+
+/* ── Base resets ──────────────────────────────────────────────────────────── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-inter);
+  background-color: var(--surface);
+  color: hsl(220 14% 90%);
+  min-height: 100dvh;
+}
+
+/* ── Focus ring ───────────────────────────────────────────────────────────── */
+:focus-visible {
+  outline: 2px solid var(--brand);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* ── Scrollbar (WebKit) ───────────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--surface); }
+::-webkit-scrollbar-thumb { background: var(--surface-border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: hsl(220 12% 30%); }
+
+/* ── Utility classes ──────────────────────────────────────────────────────── */
+@layer utilities {
+  .glass {
+    background: hsl(220 14% 100% / 0.05);
+    backdrop-filter: blur(12px);
+    border: 1px solid var(--surface-border);
+  }
+
+  .glow-brand {
+    box-shadow: 0 0 24px var(--brand-glow);
+  }
+
+  .shimmer {
+    background: linear-gradient(
+      90deg,
+      var(--surface-elevated) 0%,
+      hsl(220 12% 22%) 50%,
+      var(--surface-elevated) 100%
+    );
+    background-size: 200% 100%;
+    animation: shimmer 1.6s linear infinite;
+  }
+}
