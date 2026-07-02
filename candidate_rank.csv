@@ -1,0 +1,1653 @@
+"id,job_id,candidate_id,score,rank,reason,profile,created_at "
+"cda6ba6c-6dfb-41d7-b7fb-0cd72254593b,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"039754,96,1,""Matched skills: Qdrant, NLP, OpenSearch, LLMs, BM25, Weaviate, Python, "
+"Elasticsearch"",""{""""country"""":""""India"""",""""summary"""":""""Senior AI engineer with 8.3 years of "
+"hands-on experience building production ML systems, with a focus on search, retrieval, and "
+"ranking. Most recently, I rebuilt the candidate-JD matching pipeline from scratch, taking it "
+"from 0.72 to 0.91 NDCG@10, serving 50M+ queries per month. My day-to-day work spans "
+"embedding model selection and fine-tuning, hybrid retrieval architecture, learning-to-rank, "
+"behavioral-signal integration, and the offline/online evaluation that ties it all together. I've "
+"shipped systems in both early-stage product companies and at larger scale, and I've spent "
+enough time on both that I know which tradeoffs apply where. I believe most ranking 
+"problems are solved by careful feature engineering and rigorous eval, not by bigger models. "
+Currently exploring my next move — looking for senior IC or tech-lead roles where I can own 
+"the intelligence layer end-to-end."""",""""headline"""":""""Senior Applied Scientist | Building AI-native "
+"search & ranking systems"""",""""location"""":""""Indore, Madhya Pradesh"""",""""current_title"""":""""Senior "
+"Applied Scientist"""",""""anonymized_name"""":""""Mira "
+"Banerjee"""",""""current_company"""":""""Meta"""",""""current_industry"""":""""Internet"""",""""years_of_experie"
+"nce"""":16.2,""""current_company_size"""":""""10001+""""}"",2026-07-02 06:27:26.38587+00 "
+"32c3c7a6-c847-4973-b990-6a93c7decefa,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0095619,95,2,""Matched skills: Pinecone, NLP, Weaviate, BM25, "
+"Elasticsearch"",""{""""country"""":""""India"""",""""summary"""":""""Machine learning engineer with 4.2 years "
+"of experience building ML-powered features in production. Strong background in NLP, "
+"recommendation systems, and applied AI; comfortable across the ML stack from feature "
+"engineering through deployment. Recently, I shipped our first RAG-based feature this year "
+and now own the eval framework for it. I've spent enough time debugging production ranking 
+issues to know which signals matter and which are noise. My academic background is in 
+CS/ML but my main learning has come from shipping real systems and seeing what holds up 
+"under production load. Open to senior IC roles in applied ML or AI engineering, ideally at "
+"product companies where I'd own a meaningful piece of the ML stack."""",""""headline"""":""""NLP "
+"Engineer | Applied ML | Building intelligent products"""",""""location"""":""""Mumbai, "
+"Maharashtra"""",""""current_title"""":""""NLP Engineer"""",""""anonymized_name"""":""""Vivaan "
+"Dalal"""",""""current_company"""":""""Nykaa"""",""""current_industry"""":""""E-commerce"""",""""years_of_expe"
+"rience"""":15.6,""""current_company_size"""":""""1001-5000""""}"",2026-07-02 06:27:26.38587+00 "
+"091fc884-da9c-40cd-a322-b0d550693415,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0013536,94,3,""Matched skills: LLMs, NLP, Embeddings, QLoRA, Pinecone, Elasticsearch, "
+"Milvus, FAISS, Computer Vision"",""{""""country"""":""""India"""",""""summary"""":""""Machine learning "
+engineer with 4.8 years of experience building ML-powered features in production. Strong 
+"background in NLP, recommendation systems, and applied AI; comfortable across the ML "
+"stack from feature engineering through deployment. Recently, I led the team that migrated "
+our keyword-search-based product to embedding-based retrieval. I've learned that most 
+retrieval problems are actually evaluation problems in disguise. My academic background is 
+in CS/ML but my main learning has come from shipping real systems and seeing what holds 
+"up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at "
+product companies where I'd own a meaningful piece of the ML 
+"stack."""",""""headline"""":""""Applied ML Engineer | ML, NLP, Recommendation "
+"Systems"""",""""location"""":""""Trivandrum, Kerala"""",""""current_title"""":""""Applied ML "
+"Engineer"""",""""anonymized_name"""":""""Nisha "
+"Sen"""",""""current_company"""":""""Haptik"""",""""current_industry"""":""""Conversational "
+"AI"""",""""years_of_experience"""":14.1,""""current_company_size"""":""""201-500""""}"",2026-07-02 "
+06:27:26.38587+00 
+"ba161dc4-cfeb-40ae-9e47-c7e8c746cdfd,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"055992,94,4,""Matched skills: FAISS, RAG, LangChain, OpenSearch, Embeddings, "
+"Milvus"",""{""""country"""":""""Australia"""",""""summary"""":""""Machine learning engineer with 6.8 years of "
+"experience building ML-powered features in production. Strong background in NLP, "
+"recommendation systems, and applied AI; comfortable across the ML stack from feature "
+"engineering through deployment. Recently, I led the team that migrated our "
+keyword-search-based product to embedding-based retrieval. I care a lot about evaluation 
+rigor — too many teams ship models without offline benchmarks they trust. My academic 
+background is in CS/ML but my main learning has come from shipping real systems and 
+seeing what holds up under production load. Open to senior IC roles in applied ML or AI 
+"engineering, ideally at product companies where I'd own a meaningful piece of the ML "
+"stack."""",""""headline"""":""""AI Engineer | Search, Ranking & "
+"Retrieval"""",""""location"""":""""Sydney"""",""""current_title"""":""""AI "
+"Engineer"""",""""anonymized_name"""":""""Deepak "
+"Bansal"""",""""current_company"""":""""CRED"""",""""current_industry"""":""""Fintech"""",""""years_of_experien"
+"ce"""":16.9,""""current_company_size"""":""""1001-5000""""}"",2026-07-02 06:27:26.38587+00 "
+"14430a97-c7a0-46ee-ab37-cb812148ca50,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0009234,93,5,""Matched skills: Marketing, RAG, LLMs, Pinecone, "
+"FAISS"",""{""""country"""":""""USA"""",""""summary"""":""""HR Manager with 10.0+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""HR Manager | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""New York"""",""""current_title"""":""""HR "
+"Manager"""",""""anonymized_name"""":""""Tanya Kumar"""",""""current_company"""":""""Dunder "
+"Mifflin"""",""""current_industry"""":""""Paper "
+"Products"""",""""years_of_experience"""":10,""""current_company_size"""":""""201-500""""}"",2026-07-02 "
+06:27:26.38587+00 
+"19067195-f203-4481-8b73-8136eae46810,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0059294,93,6,""Matched skills: Go, FAISS, Pinecone, Embeddings, RAG, "
+"LangChain"",""{""""country"""":""""India"""",""""summary"""":""""Sales Executive with 13.0+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Sales Executive | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Indore, Madhya Pradesh"""",""""current_title"""":""""Sales "
+"Executive"""",""""anonymized_name"""":""""Zara "
+"Verma"""",""""current_company"""":""""Initech"""",""""current_industry"""":""""Software"""",""""years_of_experie"
+"nce"""":13,""""current_company_size"""":""""51-200""""}"",2026-07-02 06:27:26.38587+00 "
+"e0e0f5ca-200b-4b70-8a10-506582132be1,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0017014,92,7,""Matched skills: Embeddings, RAG, Pinecone, LLMs, FAISS, "
+"LangChain"",""{""""country"""":""""India"""",""""summary"""":""""Operations Manager with 12.1+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Operations Manager | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Ahmedabad, Gujarat"""",""""current_title"""":""""Operations "
+"Manager"""",""""anonymized_name"""":""""Anil "
+"Chowdary"""",""""current_company"""":""""Wipro"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":12.1,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"343b4f1d-d04b-4145-a4f9-d2eb54832229,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0018764,92,8,""Matched skills: Embeddings, LangChain, FAISS, RAG, "
+"LLMs"",""{""""country"""":""""India"""",""""summary"""":""""Sales Executive with 13.1+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Sales Executive | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Kochi, Kerala"""",""""current_title"""":""""Sales "
+"Executive"""",""""anonymized_name"""":""""Aanya Mukherjee"""",""""current_company"""":""""Pied "
+"Piper"""",""""current_industry"""":""""Software"""",""""years_of_experience"""":13.1,""""current_company_si"
+"ze"""":""""11-50""""}"",2026-07-02 06:27:26.38587+00 "
+"b32a9597-e67e-4e0e-8742-f5be2ee1ff8a,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"020179,92,9,""Matched skills: LLMs, Pinecone, RAG, LangChain, "
+"FAISS"",""{""""country"""":""""India"""",""""summary"""":""""Project Manager with 10.5+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Project Manager | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Hyderabad, Telangana"""",""""current_title"""":""""Project "
+"Manager"""",""""anonymized_name"""":""""Avni Shah"""",""""current_company"""":""""Pied "
+"Piper"""",""""current_industry"""":""""Software"""",""""years_of_experience"""":10.5,""""current_company_si"
+"ze"""":""""11-50""""}"",2026-07-02 06:27:26.38587+00 "
+"9e5adbbe-e290-46fc-ad50-e7de5fe0bdb2,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"035980,92,10,""Matched skills: FAISS, LangChain, Embeddings, RAG, Pinecone, "
+"LLMs"",""{""""country"""":""""India"""",""""summary"""":""""Content Writer with 11.1+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Content Writer | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Gurgaon, Haryana"""",""""current_title"""":""""Content "
+"Writer"""",""""anonymized_name"""":""""Ritu Mishra"""",""""current_company"""":""""Stark "
+"Industries"""",""""current_industry"""":""""Manufacturing"""",""""years_of_experience"""":11.1,""""current_co"
+"mpany_size"""":""""1001-5000""""}"",2026-07-02 06:27:26.38587+00 "
+"87e6e6da-b0b6-46a2-be60-6b3bb7d7081d,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND"
+"_0046064,92,11,""Matched skills: Python, Pinecone, BM25, OpenSearch, PEFT, "
+"Elasticsearch, QLoRA"",""{""""country"""":""""India"""",""""summary"""":""""Senior AI engineer with 8.9 "
+"years of hands-on experience building production ML systems, with a focus on search, "
+"retrieval, and ranking. Most recently, I rebuilt the candidate-JD matching pipeline from "
+"scratch, taking it from 0.72 to 0.91 NDCG@10, operating at single-digit-millisecond p95 "
+"retrieval latency. My day-to-day work spans embedding model selection and fine-tuning, "
+"hybrid retrieval architecture, learning-to-rank, behavioral-signal integration, and the "
+offline/online evaluation that ties it all together. I've shipped systems in both early-stage 
+"product companies and at larger scale, and I've spent enough time on both that I know which "
+tradeoffs apply where. I believe most ranking problems are solved by careful feature 
+"engineering and rigorous eval, not by bigger models. Currently exploring my next move — "
+looking for senior IC or tech-lead roles where I can own the intelligence layer 
+"end-to-end."""",""""headline"""":""""Senior NLP Engineer | LLMs, RAG, Vector Search | ex-Top "
+"Tech"""",""""location"""":""""Coimbatore, Tamil Nadu"""",""""current_title"""":""""Senior NLP "
+"Engineer"""",""""anonymized_name"""":""""Saanvi "
+"Naidu"""",""""current_company"""":""""Salesforce"""",""""current_industry"""":""""Software"""",""""years_of_exp"
+"erience"""":8.9,""""current_company_size"""":""""10001+""""}"",2026-07-02 06:27:26.38587+00 "
+"9f277721-dec9-4792-8113-15617d8c939f,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"055187,92,12,""Matched skills: FAISS, Pinecone, LangChain, Embeddings, "
+"RAG"",""{""""country"""":""""India"""",""""summary"""":""""Project Manager with 10.2+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Project Manager | Generative AI "
+"explorer"""",""""location"""":""""Chennai, Tamil Nadu"""",""""current_title"""":""""Project "
+"Manager"""",""""anonymized_name"""":""""Advaith Goyal"""",""""current_company"""":""""Globex "
+"Inc"""",""""current_industry"""":""""Manufacturing"""",""""years_of_experience"""":10.2,""""current_company"
+"_size"""":""""501-1000""""}"",2026-07-02 06:27:26.38587+00 "
+"922390eb-d24b-441a-9ee8-380568cbae12,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0072257,92,13,""Matched skills: Rust, FAISS, LLMs, LangChain, "
+"RAG"",""{""""country"""":""""India"""",""""summary"""":""""HR Manager with 14.0+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""HR Manager | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Gurgaon, Haryana"""",""""current_title"""":""""HR "
+"Manager"""",""""anonymized_name"""":""""Ananya Desai"""",""""current_company"""":""""Stark "
+"Industries"""",""""current_industry"""":""""Manufacturing"""",""""years_of_experience"""":14,""""current_com"
+"pany_size"""":""""1001-5000""""}"",2026-07-02 06:27:26.38587+00 "
+"2d5347ee-4d9b-4ca7-97ae-dd7019e21818,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0082216,92,14,""Matched skills: Marketing, Pinecone, FAISS, LLMs, LangChain, "
+"RAG"",""{""""country"""":""""India"""",""""summary"""":""""Customer Support with 11.8+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Customer Support | Generative AI "
+"explorer"""",""""location"""":""""Kolkata, West Bengal"""",""""current_title"""":""""Customer "
+"Support"""",""""anonymized_name"""":""""Tanvi Shetty"""",""""current_company"""":""""Dunder "
+"Mifflin"""",""""current_industry"""":""""Paper "
+"Products"""",""""years_of_experience"""":11.8,""""current_company_size"""":""""201-500""""}"",2026-07-02 "
+06:27:26.38587+00 
+"5cc31566-5b76-47a1-8359-a6ffc12dbdd5,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"086204,92,15,""Matched skills: Pinecone, LangChain, FAISS, LLMs, "
+"Embeddings"",""{""""country"""":""""India"""",""""summary"""":""""Business Analyst with 13.7+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Business Analyst | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Jaipur, Rajasthan"""",""""current_title"""":""""Business "
+"Analyst"""",""""anonymized_name"""":""""Ved "
+"Menon"""",""""current_company"""":""""Infosys"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":13.7,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"acb93002-4b6b-478f-b8ca-ee96f1bb9a3b,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"088025,92,16,""Matched skills: Pinecone, QLoRA, LLMs, RAG, LoRA, BM25, Elasticsearch, "
+"Python, NLP"",""{""""country"""":""""India"""",""""summary"""":""""Senior AI engineer with 8.6 years of "
+"hands-on experience building production ML systems, with a focus on search, retrieval, and "
+"ranking. Most recently, I designed the company's first hybrid retrieval system combining "
+"BM25 with dense vector recall, serving 50M+ queries per month. My day-to-day work spans "
+"embedding model selection and fine-tuning, hybrid retrieval architecture, learning-to-rank, "
+"behavioral-signal integration, and the offline/online evaluation that ties it all together. I've "
+"shipped systems in both early-stage product companies and at larger scale, and I've spent "
+enough time on both that I know which tradeoffs apply where. I'm comfortable across the 
+"stack from infra to algorithms, but my heart is in retrieval and ranking. Currently exploring my "
+next move — looking for senior IC or tech-lead roles where I can own the intelligence layer 
+"end-to-end."""",""""headline"""":""""Staff Machine Learning Engineer | Building AI-native search & "
+"ranking systems"""",""""location"""":""""Jaipur, Rajasthan"""",""""current_title"""":""""Staff Machine Learning "
+"Engineer"""",""""anonymized_name"""":""""Amit "
+"Arora"""",""""current_company"""":""""Yellow.ai"""",""""current_industry"""":""""AI/ML"""",""""years_of_experienc"
+"e"""":8.6,""""current_company_size"""":""""201-500""""}"",2026-07-02 06:27:26.38587+00 "
+"abdea7ee-5945-42d4-ac2d-f960e0cf92db,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"091383,92,17,""Matched skills: Pinecone, FAISS, RAG, Embeddings, "
+"LLMs"",""{""""country"""":""""India"""",""""summary"""":""""Graphic Designer with 14.8+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Graphic Designer | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Bhubaneswar, Odisha"""",""""current_title"""":""""Graphic "
+"Designer"""",""""anonymized_name"""":""""Meera "
+"Banerjee"""",""""current_company"""":""""Hooli"""",""""current_industry"""":""""Software"""",""""years_of_experi"
+"ence"""":14.8,""""current_company_size"""":""""1001-5000""""}"",2026-07-02 06:27:26.38587+00 "
+"2c3ddb71-ba0a-49f1-8593-a7ed4d3e24d1,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0000847,91,18,""Matched skills: Computer Vision, Pinecone, RAG, FAISS, LLMs, "
+"Embeddings"",""{""""country"""":""""India"""",""""summary"""":""""HR Manager with 14.5+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""HR Manager | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Chandigarh, Chandigarh"""",""""current_title"""":""""HR "
+"Manager"""",""""anonymized_name"""":""""Rahul "
+"Chatterjee"""",""""current_company"""":""""Hooli"""",""""current_industry"""":""""Software"""",""""years_of_expe"
+"rience"""":14.5,""""current_company_size"""":""""1001-5000""""}"",2026-07-02 06:27:26.38587+00 "
+"9035a97a-2e8b-408f-ba3e-38ef0e8a8f4e,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"001874,91,19,""Matched skills: RAG, Embeddings, Pinecone, LLMs, "
+"LangChain"",""{""""country"""":""""India"""",""""summary"""":""""Accountant with 14.7+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Accountant | Generative AI "
+"explorer"""",""""location"""":""""Trivandrum, "
+"Kerala"""",""""current_title"""":""""Accountant"""",""""anonymized_name"""":""""Shaurya "
+"Joshi"""",""""current_company"""":""""Stark "
+"Industries"""",""""current_industry"""":""""Manufacturing"""",""""years_of_experience"""":14.7,""""current_co"
+"mpany_size"""":""""1001-5000""""}"",2026-07-02 06:27:26.38587+00 "
+"a5dc505c-ef77-444d-b32c-93afbea0ec94,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"003805,91,20,""Matched skills: Go, Pinecone, Embeddings, LangChain, FAISS, "
+"RAG"",""{""""country"""":""""India"""",""""summary"""":""""HR Manager with 14.2+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""HR Manager | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Kolkata, West Bengal"""",""""current_title"""":""""HR "
+"Manager"""",""""anonymized_name"""":""""Nikhil "
+"Mishra"""",""""current_company"""":""""Initech"""",""""current_industry"""":""""Software"""",""""years_of_experie"
+"nce"""":14.2,""""current_company_size"""":""""51-200""""}"",2026-07-02 06:27:26.38587+00 "
+"734eecd4-efeb-4489-ad74-844f1fe05b96,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"004743,91,21,""Matched skills: RAG, FAISS, LangChain, Embeddings, "
+"LLMs"",""{""""country"""":""""India"""",""""summary"""":""""HR Manager with 12.1+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""HR Manager | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Kolkata, West Bengal"""",""""current_title"""":""""HR "
+"Manager"""",""""anonymized_name"""":""""Rahul "
+"Malhotra"""",""""current_company"""":""""TCS"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":12.1,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"4dc9ad3f-4d2a-448d-b082-0f42013e493b,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"007940,91,22,""Matched skills: Embeddings, RAG, LLMs, Pinecone, "
+"LangChain"",""{""""country"""":""""India"""",""""summary"""":""""Customer Support with 12.6+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Customer Support | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Gurgaon, Haryana"""",""""current_title"""":""""Customer "
+"Support"""",""""anonymized_name"""":""""Saanvi Verma"""",""""current_company"""":""""Acme "
+"Corp"""",""""current_industry"""":""""Manufacturing"""",""""years_of_experience"""":12.6,""""current_compa"
+"ny_size"""":""""201-500""""}"",2026-07-02 06:27:26.38587+00 "
+"ad869fce-e801-47cc-a958-9038196f33b6,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"016425,91,23,""Matched skills: LLMs, Pinecone, LangChain, RAG, "
+"Embeddings"",""{""""country"""":""""India"""",""""summary"""":""""Operations Manager with 12.3+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Operations Manager | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Chennai, Tamil Nadu"""",""""current_title"""":""""Operations "
+"Manager"""",""""anonymized_name"""":""""Arnav Bhatia"""",""""current_company"""":""""Pied "
+"Piper"""",""""current_industry"""":""""Software"""",""""years_of_experience"""":12.3,""""current_company_si"
+"ze"""":""""11-50""""}"",2026-07-02 06:27:26.38587+00 "
+"230e6589-90c8-45f6-86e1-ebfe321324fe,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"016976,91,24,""Matched skills: Marketing, Embeddings, FAISS, RAG, "
+"Pinecone"",""{""""country"""":""""India"""",""""summary"""":""""Civil Engineer with 10.8+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Civil Engineer | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Jaipur, Rajasthan"""",""""current_title"""":""""Civil "
+"Engineer"""",""""anonymized_name"""":""""Ananya Subramanian"""",""""current_company"""":""""Dunder "
+"Mifflin"""",""""current_industry"""":""""Paper "
+"Products"""",""""years_of_experience"""":10.8,""""current_company_size"""":""""201-500""""}"",2026-07-0"
+2 06:27:26.38587+00 
+"79850836-7756-4e5b-98b2-c950726d46ef,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0017955,91,25,""Matched skills: Rust, LangChain, Embeddings, RAG, "
+"LLMs"",""{""""country"""":""""Australia"""",""""summary"""":""""Project Manager with 11.3+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Project Manager | Generative AI "
+"explorer"""",""""location"""":""""Sydney"""",""""current_title"""":""""Project "
+"Manager"""",""""anonymized_name"""":""""Diya "
+"Hegde"""",""""current_company"""":""""Wipro"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":11.3,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"b95eacaf-d424-47ad-96f0-822f31bbe63c,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"027898,91,26,""Matched skills: Embeddings, RAG, LLMs, Pinecone, "
+"LangChain"",""{""""country"""":""""India"""",""""summary"""":""""Marketing Manager with 12.5+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Marketing Manager | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Vizag, Andhra Pradesh"""",""""current_title"""":""""Marketing "
+"Manager"""",""""anonymized_name"""":""""Vikram Goyal"""",""""current_company"""":""""Wayne "
+"Enterprises"""",""""current_industry"""":""""Conglomerate"""",""""years_of_experience"""":12.5,""""current_c"
+"ompany_size"""":""""10001+""""}"",2026-07-02 06:27:26.38587+00 "
+"6ce4fc3a-fb60-4fd5-9fc5-5f0c3b8681f8,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_003"
+"6871,91,27,""Matched skills: Embeddings, LangChain, FAISS, RAG, "
+"LLMs"",""{""""country"""":""""India"""",""""summary"""":""""Sales Executive with 13.4+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Sales Executive | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Bangalore, Karnataka"""",""""current_title"""":""""Sales "
+"Executive"""",""""anonymized_name"""":""""Shaurya Patel"""",""""current_company"""":""""Globex "
+"Inc"""",""""current_industry"""":""""Manufacturing"""",""""years_of_experience"""":13.4,""""current_company"
+"_size"""":""""501-1000""""}"",2026-07-02 06:27:26.38587+00 "
+"c8f7bb6a-6f11-4b40-ba2d-1fb2a54a078f,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_00"
+"46894,91,28,""Matched skills: Pinecone, LLMs, Embeddings, FAISS, "
+"LangChain"",""{""""country"""":""""India"""",""""summary"""":""""Content Writer with 14.1+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Content Writer | Generative AI "
+"explorer"""",""""location"""":""""Noida, Uttar Pradesh"""",""""current_title"""":""""Content "
+"Writer"""",""""anonymized_name"""":""""Myra Kapoor"""",""""current_company"""":""""Wayne "
+"Enterprises"""",""""current_industry"""":""""Conglomerate"""",""""years_of_experience"""":14.1,""""current_c"
+"ompany_size"""":""""10001+""""}"",2026-07-02 06:27:26.38587+00 "
+"d880b381-e87d-4fba-9723-0d6541b77234,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0049237,91,29,""Matched skills: Marketing, FAISS, LLMs, Embeddings, LangChain, "
+"Pinecone, RAG"",""{""""country"""":""""India"""",""""summary"""":""""HR Manager with 9.9+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""HR Manager | Generative AI "
+"explorer"""",""""location"""":""""Coimbatore, Tamil Nadu"""",""""current_title"""":""""HR "
+"Manager"""",""""anonymized_name"""":""""Sai Arora"""",""""current_company"""":""""Wayne "
+"Enterprises"""",""""current_industry"""":""""Conglomerate"""",""""years_of_experience"""":9.9,""""current_co"
+"mpany_size"""":""""10001+""""}"",2026-07-02 06:27:26.38587+00 "
+"23ff4787-5721-4096-902e-c70381a6c00f,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"050631,91,30,""Matched skills: Embeddings, FAISS, LangChain, LLMs, "
+"Pinecone"",""{""""country"""":""""India"""",""""summary"""":""""Sales Executive with 14.5+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Sales Executive | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Mumbai, Maharashtra"""",""""current_title"""":""""Sales "
+"Executive"""",""""anonymized_name"""":""""Sanjay Bose"""",""""current_company"""":""""Wayne "
+"Enterprises"""",""""current_industry"""":""""Conglomerate"""",""""years_of_experience"""":14.5,""""current_c"
+"ompany_size"""":""""10001+""""}"",2026-07-02 06:27:26.38587+00 "
+"4f64fd72-c7c5-4158-bb65-9c32b14b7dff,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_00"
+"51537,91,31,""Matched skills: Rust, Go, RAG, FAISS, "
+"LangChain"",""{""""country"""":""""Australia"""",""""summary"""":""""Sales Executive with 13.4+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Sales Executive | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Sydney"""",""""current_title"""":""""Sales "
+"Executive"""",""""anonymized_name"""":""""Nisha "
+"Pandey"""",""""current_company"""":""""Infosys"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":13.4,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"5fdc8d80-9a02-4c51-a51a-12013a1fa4c6,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"056097,91,32,""Matched skills: RAG, LangChain, Pinecone, LLMs, Embeddings, "
+"FAISS"",""{""""country"""":""""India"""",""""summary"""":""""Sales Executive with 13.2+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Sales Executive | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Jaipur, Rajasthan"""",""""current_title"""":""""Sales "
+"Executive"""",""""anonymized_name"""":""""Anjali "
+"Rao"""",""""current_company"""":""""Infosys"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":13.2,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"39fb9081-4de3-42b4-b3de-1a2493f45b1e,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0060235,91,33,""Matched skills: Go, Rust, LLMs, Embeddings, LangChain, Pinecone, "
+"FAISS"",""{""""country"""":""""India"""",""""summary"""":""""Mechanical Engineer with 10.2+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Mechanical Engineer | Generative AI "
+"explorer"""",""""location"""":""""Indore, Madhya Pradesh"""",""""current_title"""":""""Mechanical "
+"Engineer"""",""""anonymized_name"""":""""Nikhil Shah"""",""""current_company"""":""""Pied "
+"Piper"""",""""current_industry"""":""""Software"""",""""years_of_experience"""":10.2,""""current_company_si"
+"ze"""":""""11-50""""}"",2026-07-02 06:27:26.38587+00 "
+"e8bbaac9-7fbc-4d62-8124-62ddacadfcf4,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"061066,91,34,""Matched skills: Go, Pinecone, LLMs, FAISS, "
+"RAG"",""{""""country"""":""""India"""",""""summary"""":""""Graphic Designer with 13.8+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Graphic Designer | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Vizag, Andhra Pradesh"""",""""current_title"""":""""Graphic "
+"Designer"""",""""anonymized_name"""":""""Aadhya "
+"Reddy"""",""""current_company"""":""""Infosys"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":13.8,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"bafd7349-a4fb-4e94-b858-f4561eeb6c8b,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"062759,91,35,""Matched skills: Go, LLMs, LangChain, RAG, FAISS, "
+"Embeddings"",""{""""country"""":""""USA"""",""""summary"""":""""Customer Support with 14.6+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Customer Support | Generative AI "
+"explorer"""",""""location"""":""""Seattle"""",""""current_title"""":""""Customer "
+"Support"""",""""anonymized_name"""":""""Tanvi "
+"Chowdary"""",""""current_company"""":""""Hooli"""",""""current_industry"""":""""Software"""",""""years_of_exper"
+"ience"""":14.6,""""current_company_size"""":""""1001-5000""""}"",2026-07-02 06:27:26.38587+00 "
+"98f7f47d-9ad7-48b0-98fe-b8c153f78e13,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_00"
+"65748,91,36,""Matched skills: LangChain, FAISS, LLMs, Pinecone, RAG, "
+"Embeddings"",""{""""country"""":""""India"""",""""summary"""":""""Sales Executive with 13.5+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Sales Executive | Generative AI "
+"explorer"""",""""location"""":""""Bangalore, Karnataka"""",""""current_title"""":""""Sales "
+"Executive"""",""""anonymized_name"""":""""Pooja Chowdary"""",""""current_company"""":""""Pied "
+"Piper"""",""""current_industry"""":""""Software"""",""""years_of_experience"""":13.5,""""current_company_si"
+"ze"""":""""11-50""""}"",2026-07-02 06:27:26.38587+00 "
+"531c45c4-d066-4b5f-bf7c-5666d0026c85,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"067229,91,37,""Matched skills: Go, Marketing, RAG, FAISS, Embeddings, Pinecone, "
+"LLMs"",""{""""country"""":""""India"""",""""summary"""":""""Operations Manager with 12.9+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Operations Manager | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Vizag, Andhra Pradesh"""",""""current_title"""":""""Operations "
+"Manager"""",""""anonymized_name"""":""""Siya "
+"Agarwal"""",""""current_company"""":""""TCS"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":12.9,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"9323286c-c563-411a-9955-781615610143,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0067993,91,38,""Matched skills: Embeddings, RAG, Pinecone, LLMs, "
+"FAISS"",""{""""country"""":""""USA"""",""""summary"""":""""Sales Executive with 10.8+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Sales Executive | Generative AI "
+"explorer"""",""""location"""":""""Austin"""",""""current_title"""":""""Sales "
+"Executive"""",""""anonymized_name"""":""""Aanya "
+"Saxena"""",""""current_company"""":""""Wipro"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":10.8,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"17685bf0-b6fa-42ac-9c41-92c14e74819b,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"069940,91,39,""Matched skills: Go, Embeddings, Pinecone, LLMs, "
+"LangChain"",""{""""country"""":""""India"""",""""summary"""":""""HR Manager with 12.0+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""HR Manager | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Delhi, Delhi"""",""""current_title"""":""""HR "
+"Manager"""",""""anonymized_name"""":""""Reyansh "
+"Agarwal"""",""""current_company"""":""""Infosys"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":12,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"d2c5461a-8ebc-4789-a733-fde5297a7da9,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0071115,91,40,""Matched skills: Weaviate, BM25, Computer Vision, LLMs, Python, "
+"Embeddings"",""{""""country"""":""""India"""",""""summary"""":""""Machine learning engineer with 5.8 years "
+"of experience building ML-powered features in production. Strong background in NLP, "
+"recommendation systems, and applied AI; comfortable across the ML stack from feature "
+"engineering through deployment. Recently, my main project for the last 18 months has been "
+the recommendation system that powers our discovery feed. I care a lot about evaluation 
+rigor — too many teams ship models without offline benchmarks they trust. My academic 
+background is in CS/ML but my main learning has come from shipping real systems and 
+seeing what holds up under production load. Open to senior IC roles in applied ML or AI 
+"engineering, ideally at product companies where I'd own a meaningful piece of the ML "
+"stack."""",""""headline"""":""""Recommendation Systems Engineer | ML, NLP, Recommendation "
+"Systems"""",""""location"""":""""Ahmedabad, Gujarat"""",""""current_title"""":""""Recommendation Systems "
+"Engineer"""",""""anonymized_name"""":""""Tanya "
+"Shah"""",""""current_company"""":""""Meta"""",""""current_industry"""":""""Internet"""",""""years_of_experience"""
+""":16.5,""""current_company_size"""":""""10001+""""}"",2026-07-02 06:27:26.38587+00 "
+"1851947b-32e5-42f9-b4e1-35d716360e3c,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0071974,91,41,""Matched skills: LoRA, Weaviate, PEFT, BM25, Pinecone, Qdrant, "
+"Embeddings, RAG, Elasticsearch"",""{""""country"""":""""India"""",""""summary"""":""""Senior AI engineer "
+"with 7.8 years of hands-on experience building production ML systems, with a focus on "
+"search, retrieval, and ranking. Most recently, I led the migration from keyword-based ranking "
+"to a learning-to-rank model with embedded behavioral signals, handling peak QPS of 8K "
+"with sub-200ms p95. My day-to-day work spans embedding model selection and fine-tuning, "
+"hybrid retrieval architecture, learning-to-rank, behavioral-signal integration, and the "
+offline/online evaluation that ties it all together. I've shipped systems in both early-stage 
+"product companies and at larger scale, and I've spent enough time on both that I know which "
+tradeoffs apply where. I believe most ranking problems are solved by careful feature 
+"engineering and rigorous eval, not by bigger models. Currently exploring my next move — "
+looking for senior IC or tech-lead roles where I can own the intelligence layer 
+"end-to-end."""",""""headline"""":""""Senior AI Engineer | Production ML at scale | 7.8+ "
+"yrs"""",""""location"""":""""Vizag, Andhra Pradesh"""",""""current_title"""":""""Senior AI "
+"Engineer"""",""""anonymized_name"""":""""Sai "
+"Verma"""",""""current_company"""":""""Netflix"""",""""current_industry"""":""""Media"""",""""years_of_experienc"
+"e"""":7.8,""""current_company_size"""":""""10001+""""}"",2026-07-02 06:27:26.38587+00 "
+"727e5565-2dbf-4fcd-9d2a-ba2b625196b5,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"075698,91,42,""Matched skills: Go, LLMs, RAG, Pinecone, LangChain, "
+"FAISS"",""{""""country"""":""""India"""",""""summary"""":""""Marketing Manager with 10.2+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Marketing Manager | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Kolkata, West Bengal"""",""""current_title"""":""""Marketing "
+"Manager"""",""""anonymized_name"""":""""Advik Sen"""",""""current_company"""":""""Acme "
+"Corp"""",""""current_industry"""":""""Manufacturing"""",""""years_of_experience"""":10.2,""""current_compa"
+"ny_size"""":""""201-500""""}"",2026-07-02 06:27:26.38587+00 "
+"efe2d879-5feb-43c7-bdd6-b84b65ccf753,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"077723,91,43,""Matched skills: Marketing, LangChain, LLMs, FAISS, "
+"RAG"",""{""""country"""":""""India"""",""""summary"""":""""Marketing Manager with 11.3+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Marketing Manager | Generative AI "
+"explorer"""",""""location"""":""""Delhi, Delhi"""",""""current_title"""":""""Marketing "
+"Manager"""",""""anonymized_name"""":""""Zara "
+"Iyer"""",""""current_company"""":""""TCS"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":11.3,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"6578e43f-2268-42de-90d5-3872789060ad,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0091067,91,44,""Matched skills: FAISS, LangChain, LLMs, Embeddings, "
+"RAG"",""{""""country"""":""""India"""",""""summary"""":""""Business Analyst with 11.6+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Business Analyst | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Bhubaneswar, Odisha"""",""""current_title"""":""""Business "
+"Analyst"""",""""anonymized_name"""":""""Sai "
+"Dutta"""",""""current_company"""":""""Wipro"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":11.6,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"d0549e66-3b5d-4bfd-a79d-e09612f65449,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0091379,91,45,""Matched skills: FAISS, LLMs, Embeddings, LangChain, RAG, "
+"Pinecone"",""{""""country"""":""""India"""",""""summary"""":""""Mechanical Engineer with 12.4+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Mechanical Engineer | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Hyderabad, Telangana"""",""""current_title"""":""""Mechanical "
+"Engineer"""",""""anonymized_name"""":""""Anil Pandey"""",""""current_company"""":""""Globex "
+"Inc"""",""""current_industry"""":""""Manufacturing"""",""""years_of_experience"""":12.4,""""current_company"
+"_size"""":""""501-1000""""}"",2026-07-02 06:27:26.38587+00 "
+"d1870437-fc2f-44a4-9743-0ea7d95dbc45,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"091442,91,46,""Matched skills: Embeddings, LLMs, RAG, FAISS, "
+"LangChain"",""{""""country"""":""""India"""",""""summary"""":""""Accountant with 10.9+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Accountant | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Delhi, "
+"Delhi"""",""""current_title"""":""""Accountant"""",""""anonymized_name"""":""""Aarav "
+"Agarwal"""",""""current_company"""":""""Wayne "
+"Enterprises"""",""""current_industry"""":""""Conglomerate"""",""""years_of_experience"""":10.9,""""current_c"
+"ompany_size"""":""""10001+""""}"",2026-07-02 06:27:26.38587+00 "
+"e5ca0dc3-d264-4213-b9b3-a32cd279fc5a,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0093191,91,47,""Matched skills: Go, Pinecone, FAISS, LLMs, RAG, "
+"Embeddings"",""{""""country"""":""""UAE"""",""""summary"""":""""Business Analyst with 12.2+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Business Analyst | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Dubai"""",""""current_title"""":""""Business "
+"Analyst"""",""""anonymized_name"""":""""Aarav "
+"Bhatia"""",""""current_company"""":""""Wipro"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":12.2,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"cfb17025-54ad-468a-bfe0-ac6955eb2e6f,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"098215,91,48,""Matched skills: RAG, LLMs, LangChain, Pinecone, FAISS, "
+"Embeddings"",""{""""country"""":""""India"""",""""summary"""":""""Marketing Manager with 11.2+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Marketing Manager | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Vizag, Andhra Pradesh"""",""""current_title"""":""""Marketing "
+"Manager"""",""""anonymized_name"""":""""Aryan "
+"Gupta"""",""""current_company"""":""""Wipro"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":11.2,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"8a65a57e-a7c4-48e4-b976-e0ed0f15aac2,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0099445,91,49,""Matched skills: Go, FAISS, LangChain, LLMs, Pinecone, "
+"RAG"",""{""""country"""":""""India"""",""""summary"""":""""Customer Support with 12.4+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Customer Support | Generative AI "
+"explorer"""",""""location"""":""""Bhubaneswar, Odisha"""",""""current_title"""":""""Customer "
+"Support"""",""""anonymized_name"""":""""Vivaan "
+"Sethi"""",""""current_company"""":""""Wipro"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":12.4,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"0076e442-61b5-47cf-b9b3-90f99056238a,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"001147,90,50,""Matched skills: Computer Vision, Embeddings, FAISS, RAG, LLMs, "
+"LangChain"",""{""""country"""":""""India"""",""""summary"""":""""Sales Executive with 11.8+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Sales Executive | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Delhi, Delhi"""",""""current_title"""":""""Sales "
+"Executive"""",""""anonymized_name"""":""""Anika "
+"Kapoor"""",""""current_company"""":""""Hooli"""",""""current_industry"""":""""Software"""",""""years_of_experie"
+"nce"""":11.8,""""current_company_size"""":""""1001-5000""""}"",2026-07-02 06:27:26.38587+00 "
+"fdcd13a4-9170-4b5d-adef-2fbc20662391,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"002825,90,51,""Matched skills: FAISS, LangChain, Embeddings, RAG, Pinecone, "
+"LLMs"",""{""""country"""":""""India"""",""""summary"""":""""Sales Executive with 13.7+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Sales Executive | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Indore, Madhya Pradesh"""",""""current_title"""":""""Sales "
+"Executive"""",""""anonymized_name"""":""""Manish "
+"Sharma"""",""""current_company"""":""""Infosys"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":13.7,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"e71c2a63-3114-44ac-b9a6-4ae4758151c7,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0006324,90,52,""Matched skills: Rust, FAISS, LLMs, Pinecone, LangChain, "
+"RAG"",""{""""country"""":""""India"""",""""summary"""":""""Mechanical Engineer with 11.4+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Mechanical Engineer | Generative AI "
+"explorer"""",""""location"""":""""Ahmedabad, Gujarat"""",""""current_title"""":""""Mechanical "
+"Engineer"""",""""anonymized_name"""":""""Kiara Dalal"""",""""current_company"""":""""Dunder "
+"Mifflin"""",""""current_industry"""":""""Paper "
+"Products"""",""""years_of_experience"""":11.4,""""current_company_size"""":""""201-500""""}"",2026-07-02 "
+06:27:26.38587+00 
+"082b2b98-e509-4cc2-8630-9d3320776d57,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0007009,90,53,""Matched skills: Weaviate, Python, Embeddings, PEFT, BM25, LoRA, LLMs, "
+"QLoRA, OpenSearch"",""{""""country"""":""""India"""",""""summary"""":""""Machine learning engineer with "
+7.9 years of experience building ML-powered features in production. Strong background in 
+"NLP, recommendation systems, and applied AI; comfortable across the ML stack from "
+"feature engineering through deployment. Recently, I shipped our first RAG-based feature "
+this year and now own the eval framework for it. I care a lot about evaluation rigor — too 
+many teams ship models without offline benchmarks they trust. My academic background is 
+in CS/ML but my main learning has come from shipping real systems and seeing what holds 
+"up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at "
+product companies where I'd own a meaningful piece of the ML 
+"stack."""",""""headline"""":""""Recommendation Systems Engineer | ML, NLP, Recommendation "
+"Systems"""",""""location"""":""""Noida, Uttar Pradesh"""",""""current_title"""":""""Recommendation Systems "
+"Engineer"""",""""anonymized_name"""":""""Anika "
+"Pillai"""",""""current_company"""":""""Wysa"""",""""current_industry"""":""""HealthTech "
+"AI"""",""""years_of_experience"""":7.9,""""current_company_size"""":""""51-200""""}"",2026-07-02 "
+06:27:26.38587+00 
+"ba8ef21a-89d6-4c45-add1-d5a7f4e6db51,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"008981,90,54,""Matched skills: Rust, LangChain, FAISS, Pinecone, Embeddings, "
+"RAG"",""{""""country"""":""""India"""",""""summary"""":""""Accountant with 14.2+ years of experience driving "
+outcomes in my domain. I have built strong functional expertise in the typical responsibilities 
+"of the role, including team management, stakeholder communication, and project delivery. "
+Recently I've been excited about how AI and GenAI tools can augment my work. I've been 
+"taking online courses on RAG and vector databases, experimenting with LangChain and the "
+"OpenAI API for side projects, and exploring how LLMs can streamline workflows in my "
+current function. Open to roles that combine my existing domain experience with emerging 
+AI technologies — I think the most interesting opportunities are at this intersection. Looking 
+for positions where I can contribute both my functional expertise and grow my AI 
+"capabilities."""",""""headline"""":""""Accountant | Generative AI explorer"""",""""location"""":""""Kochi, "
+"Kerala"""",""""current_title"""":""""Accountant"""",""""anonymized_name"""":""""Aditya "
+"Chowdary"""",""""current_company"""":""""Hooli"""",""""current_industry"""":""""Software"""",""""years_of_exper"
+"ience"""":14.2,""""current_company_size"""":""""1001-5000""""}"",2026-07-02 06:27:26.38587+00 "
+"88e251fe-7cac-4498-b6a0-462957ccf457,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"011330,90,55,""Matched skills: Embeddings, LangChain, Pinecone, FAISS, "
+"LLMs"",""{""""country"""":""""USA"""",""""summary"""":""""Marketing Manager with 11.2+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Marketing Manager | Generative AI "
+"explorer"""",""""location"""":""""New York"""",""""current_title"""":""""Marketing "
+"Manager"""",""""anonymized_name"""":""""Deepak Trivedi"""",""""current_company"""":""""Stark "
+"Industries"""",""""current_industry"""":""""Manufacturing"""",""""years_of_experience"""":11.2,""""current_co"
+"mpany_size"""":""""1001-5000""""}"",2026-07-02 06:27:26.38587+00 "
+"d3f1caaf-7028-4ce3-a9f4-1d87de7032f6,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_00"
+"11478,90,56,""Matched skills: Marketing, Embeddings, Pinecone, LLMs, RAG, "
+"FAISS"",""{""""country"""":""""India"""",""""summary"""":""""Marketing Manager with 10.9+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Marketing Manager | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Bangalore, Karnataka"""",""""current_title"""":""""Marketing "
+"Manager"""",""""anonymized_name"""":""""Aryan "
+"Bhatia"""",""""current_company"""":""""Wipro"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":10.9,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"3f55ce18-283a-41a0-817b-4db029517a3e,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0011687,90,57,""Matched skills: OpenSearch, FAISS, PEFT, Embeddings, LangChain, "
+"Weaviate"",""{""""country"""":""""India"""",""""summary"""":""""Senior AI engineer with 7.8 years of "
+"hands-on experience building production ML systems, with a focus on search, retrieval, and "
+"ranking. Most recently, I owned the offline-online evaluation harness — NDCG/MRR/recall "
+"calibrated to live A/B metrics, with an index footprint of ~600GB and incremental refresh "
+"every 15 min. My day-to-day work spans embedding model selection and fine-tuning, hybrid "
+"retrieval architecture, learning-to-rank, behavioral-signal integration, and the offline/online "
+evaluation that ties it all together. I've shipped systems in both early-stage product 
+"companies and at larger scale, and I've spent enough time on both that I know which "
+tradeoffs apply where. I believe most ranking problems are solved by careful feature 
+"engineering and rigorous eval, not by bigger models. Currently exploring my next move — "
+looking for senior IC or tech-lead roles where I can own the intelligence layer 
+"end-to-end."""",""""headline"""":""""Senior NLP Engineer | Production ML at scale | 7.8+ "
+"yrs"""",""""location"""":""""Indore, Madhya Pradesh"""",""""current_title"""":""""Senior NLP "
+"Engineer"""",""""anonymized_name"""":""""Shreya "
+"Tiwari"""",""""current_company"""":""""Niramai"""",""""current_industry"""":""""HealthTech "
+"AI"""",""""years_of_experience"""":7.8,""""current_company_size"""":""""51-200""""}"",2026-07-02 "
+06:27:26.38587+00 
+"8781978b-f17a-498f-8613-ac6c41f2a339,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"012498,90,58,""Matched skills: FAISS, Embeddings, Pinecone, RAG, "
+"LangChain"",""{""""country"""":""""India"""",""""summary"""":""""HR Manager with 10.2+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""HR Manager | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Kolkata, West Bengal"""",""""current_title"""":""""HR "
+"Manager"""",""""anonymized_name"""":""""Sneha "
+"Mukherjee"""",""""current_company"""":""""Hooli"""",""""current_industry"""":""""Software"""",""""years_of_expe"
+"rience"""":10.2,""""current_company_size"""":""""1001-5000""""}"",2026-07-02 06:27:26.38587+00 "
+"aebb75bc-08c9-4aa4-aee5-01a39f05091c,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0012660,90,59,""Matched skills: Go, Rust, Marketing, FAISS, RAG, Embeddings, LangChain, "
+"Pinecone"",""{""""country"""":""""USA"""",""""summary"""":""""Marketing Manager with 14.3+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Marketing Manager | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Austin"""",""""current_title"""":""""Marketing "
+"Manager"""",""""anonymized_name"""":""""Siya "
+"Sen"""",""""current_company"""":""""Infosys"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":14.3,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"2fd1d079-9a09-4b42-af29-a5e0f8273122,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"013749,90,60,""Matched skills: RAG, Pinecone, LLMs, Embeddings, "
+"LangChain"",""{""""country"""":""""USA"""",""""summary"""":""""Mechanical Engineer with 14.6+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Mechanical Engineer | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Seattle"""",""""current_title"""":""""Mechanical "
+"Engineer"""",""""anonymized_name"""":""""Ishaan "
+"Kumar"""",""""current_company"""":""""Infosys"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":14.6,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"6c4ee2e1-02ae-4909-bd2a-b9bedfecda8a,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0018499,90,61,""Matched skills: Weaviate, Pinecone, Milvus, QLoRA, RAG, Embeddings, "
+"Go, BM25, LangChain"",""{""""country"""":""""India"""",""""summary"""":""""Senior AI engineer with 7.2 "
+"years of hands-on experience building production ML systems, with a focus on search, "
+"retrieval, and ranking. Most recently, I designed the company's first hybrid retrieval system "
+"combining BM25 with dense vector recall, serving 50M+ queries per month. My day-to-day "
+"work spans embedding model selection and fine-tuning, hybrid retrieval architecture, "
+"learning-to-rank, behavioral-signal integration, and the offline/online evaluation that ties it all "
+"together. I've shipped systems in both early-stage product companies and at larger scale, "
+and I've spent enough time on both that I know which tradeoffs apply where. I have strong 
+opinions about when LLMs are the right hammer and when classical IR is — usually it's both. 
+Currently exploring my next move — looking for senior IC or tech-lead roles where I can own 
+"the intelligence layer end-to-end."""",""""headline"""":""""Senior Machine Learning Engineer | "
+"Building AI-native search & ranking systems"""",""""location"""":""""Noida, Uttar "
+"Pradesh"""",""""current_title"""":""""Senior Machine Learning "
+"Engineer"""",""""anonymized_name"""":""""Aarav "
+"Trivedi"""",""""current_company"""":""""Zomato"""",""""current_industry"""":""""Food "
+"Delivery"""",""""years_of_experience"""":7.2,""""current_company_size"""":""""5001-10000""""}"",2026-07-"
+02 06:27:26.38587+00 
+"19ffd9c8-af76-441f-9bfd-96fde7aa1284,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_001"
+"8735,90,62,""Matched skills: Pinecone, RAG, LangChain, LLMs, "
+"Embeddings"",""{""""country"""":""""India"""",""""summary"""":""""Marketing Manager with 11.3+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Marketing Manager | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Hyderabad, Telangana"""",""""current_title"""":""""Marketing "
+"Manager"""",""""anonymized_name"""":""""Vikram "
+"Khanna"""",""""current_company"""":""""Wipro"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":11.3,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"64348e99-31c7-4ae1-a024-d14176fafb99,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"020468,90,63,""Matched skills: Pinecone, LLMs, Embeddings, LangChain, "
+"FAISS"",""{""""country"""":""""India"""",""""summary"""":""""HR Manager with 13.4+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""HR Manager | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Coimbatore, Tamil Nadu"""",""""current_title"""":""""HR "
+"Manager"""",""""anonymized_name"""":""""Kiara "
+"Nair"""",""""current_company"""":""""Infosys"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":13.4,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"22edb714-68b0-481c-95bd-bb6c6074aaf3,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0022781,90,64,""Matched skills: FAISS, LLMs, Embeddings, LangChain, "
+"Pinecone"",""{""""country"""":""""UK"""",""""summary"""":""""Sales Executive with 11.3+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Sales Executive | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""London"""",""""current_title"""":""""Sales "
+"Executive"""",""""anonymized_name"""":""""Aadhya Vora"""",""""current_company"""":""""Globex "
+"Inc"""",""""current_industry"""":""""Manufacturing"""",""""years_of_experience"""":11.3,""""current_company"
+"_size"""":""""501-1000""""}"",2026-07-02 06:27:26.38587+00 "
+"fbf76993-3704-4d91-8e2f-4500cf397282,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_00"
+"26383,90,65,""Matched skills: FAISS, LangChain, LLMs, RAG, "
+"Embeddings"",""{""""country"""":""""Singapore"""",""""summary"""":""""Business Analyst with 10.5+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Business Analyst | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Singapore"""",""""current_title"""":""""Business "
+"Analyst"""",""""anonymized_name"""":""""Aisha Malhotra"""",""""current_company"""":""""Wayne "
+"Enterprises"""",""""current_industry"""":""""Conglomerate"""",""""years_of_experience"""":10.5,""""current_c"
+"ompany_size"""":""""10001+""""}"",2026-07-02 06:27:26.38587+00 "
+"1eed7a44-e51f-4dae-ba6b-168081daadae,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0029426,90,66,""Matched skills: Rust, Pinecone, Embeddings, LangChain, LLMs, "
+"RAG"",""{""""country"""":""""India"""",""""summary"""":""""Customer Support with 12.0+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Customer Support | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Chandigarh, Chandigarh"""",""""current_title"""":""""Customer "
+"Support"""",""""anonymized_name"""":""""Ayaan Dutta"""",""""current_company"""":""""Pied "
+"Piper"""",""""current_industry"""":""""Software"""",""""years_of_experience"""":12,""""current_company_size"
+""""":""""11-50""""}"",2026-07-02 06:27:26.38587+00 "
+"45710bae-dd4f-4b5d-83b2-574f13473ea5,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0029552,90,67,""Matched skills: Pinecone, Embeddings, RAG, LangChain, "
+"FAISS"",""{""""country"""":""""India"""",""""summary"""":""""Civil Engineer with 10.5+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Civil Engineer | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Gurgaon, Haryana"""",""""current_title"""":""""Civil "
+"Engineer"""",""""anonymized_name"""":""""Ishaan Pillai"""",""""current_company"""":""""Dunder "
+"Mifflin"""",""""current_industry"""":""""Paper "
+"Products"""",""""years_of_experience"""":10.5,""""current_company_size"""":""""201-500""""}"",2026-07-0"
+2 06:27:26.38587+00 
+"2abca8d1-8ee2-441e-86ec-3575f61580b9,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0030026,90,68,""Matched skills: Go, FAISS, LLMs, Pinecone, RAG, "
+"LangChain"",""{""""country"""":""""India"""",""""summary"""":""""HR Manager with 13.0+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""HR Manager | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Delhi, Delhi"""",""""current_title"""":""""HR "
+"Manager"""",""""anonymized_name"""":""""Rohan "
+"Rao"""",""""current_company"""":""""TCS"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":13,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"2d631ac5-b583-4232-a1c5-3ae328aedecb,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0031442,90,69,""Matched skills: Marketing, LangChain, Embeddings, Pinecone, RAG, "
+"FAISS"",""{""""country"""":""""India"""",""""summary"""":""""Business Analyst with 10.9+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Business Analyst | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Mumbai, Maharashtra"""",""""current_title"""":""""Business "
+"Analyst"""",""""anonymized_name"""":""""Anil "
+"Banerjee"""",""""current_company"""":""""TCS"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":10.9,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"a6c50491-4d53-4c98-866a-0137a1d29afd,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0033719,90,70,""Matched skills: LangChain, Pinecone, Embeddings, FAISS, RAG, "
+"LLMs"",""{""""country"""":""""India"""",""""summary"""":""""Content Writer with 11.2+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Content Writer | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Jaipur, Rajasthan"""",""""current_title"""":""""Content "
+"Writer"""",""""anonymized_name"""":""""Sanjay Goyal"""",""""current_company"""":""""Dunder "
+"Mifflin"""",""""current_industry"""":""""Paper "
+"Products"""",""""years_of_experience"""":11.2,""""current_company_size"""":""""201-500""""}"",2026-07-02 "
+06:27:26.38587+00 
+"a654a9ef-8308-473e-948d-b2badb86147d,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0034167,90,71,""Matched skills: Pinecone, LLMs, Embeddings, RAG, FAISS, "
+"LangChain"",""{""""country"""":""""Singapore"""",""""summary"""":""""Accountant with 13.4+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Accountant | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Singapore"""",""""current_title"""":""""Accountant"""",""""anonymized_name"""":""""Anil "
+"Sharma"""",""""current_company"""":""""Wayne "
+"Enterprises"""",""""current_industry"""":""""Conglomerate"""",""""years_of_experience"""":13.4,""""current_c"
+"ompany_size"""":""""10001+""""}"",2026-07-02 06:27:26.38587+00 "
+"47793590-0642-45df-8a08-3afcb4fc8aee,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"034605,90,72,""Matched skills: RAG, LangChain, LLMs, Pinecone, FAISS, "
+"Embeddings"",""{""""country"""":""""India"""",""""summary"""":""""HR Manager with 12.1+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""HR Manager | Generative AI "
+"explorer"""",""""location"""":""""Vizag, Andhra Pradesh"""",""""current_title"""":""""HR "
+"Manager"""",""""anonymized_name"""":""""Anil Patel"""",""""current_company"""":""""Wayne "
+"Enterprises"""",""""current_industry"""":""""Conglomerate"""",""""years_of_experience"""":12.1,""""current_c"
+"ompany_size"""":""""10001+""""}"",2026-07-02 06:27:26.38587+00 "
+"1c939704-f8a7-4546-a3dd-246d481662c1,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0035292,90,73,""Matched skills: Marketing, Embeddings, Pinecone, FAISS, RAG, "
+"LLMs"",""{""""country"""":""""India"""",""""summary"""":""""Customer Support with 13.7+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Customer Support | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Ahmedabad, Gujarat"""",""""current_title"""":""""Customer "
+"Support"""",""""anonymized_name"""":""""Pooja Pillai"""",""""current_company"""":""""Wayne "
+"Enterprises"""",""""current_industry"""":""""Conglomerate"""",""""years_of_experience"""":13.7,""""current_c"
+"ompany_size"""":""""10001+""""}"",2026-07-02 06:27:26.38587+00 "
+"be203f22-1b5f-4bd0-baed-b06fcb50c7ca,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"036786,90,74,""Matched skills: Embeddings, Pinecone, LLMs, RAG, "
+"LangChain"",""{""""country"""":""""UAE"""",""""summary"""":""""Mechanical Engineer with 13.8+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Mechanical Engineer | Generative AI "
+"explorer"""",""""location"""":""""Dubai"""",""""current_title"""":""""Mechanical "
+"Engineer"""",""""anonymized_name"""":""""Diya "
+"Naidu"""",""""current_company"""":""""Initech"""",""""current_industry"""":""""Software"""",""""years_of_experie"
+"nce"""":13.8,""""current_company_size"""":""""51-200""""}"",2026-07-02 06:27:26.38587+00 "
+"90931fd0-4172-4d30-b743-c6db97690ac1,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0037980,90,75,""Matched skills: LoRA, Search Infrastructure, NLP, BM25, "
+"QLoRA"",""{""""country"""":""""India"""",""""summary"""":""""Senior engineer who has spent the last several "
+years building systems that connect users with relevant information at scale. Comfortable 
+"across the full stack from infrastructure to algorithms to product experience, though most of "
+my time has been in the middle layer — the ranking and retrieval systems that decide what 
+to show. Strong preference for shipping real systems over research-only work; I'd rather 
+have a working v1 in 6 weeks than a perfect v2 in 6 months. I've made the standard 
+"mistakes — over-engineering early, optimizing offline metrics that didn't move online "
+"numbers, building beautiful infrastructure for features that users didn't actually want — so I "
+notice them faster now. Looking for senior IC or tech-lead roles where I can own the 
+"intelligence layer end-to-end at a product company."""",""""headline"""":""""Senior Engineer | "
+"Information Retrieval at scale"""",""""location"""":""""Kolkata, West Bengal"""",""""current_title"""":""""Senior "
+"Applied Scientist"""",""""anonymized_name"""":""""Reyansh "
+"Chowdary"""",""""current_company"""":""""Niramai"""",""""current_industry"""":""""HealthTech "
+"AI"""",""""years_of_experience"""":9,""""current_company_size"""":""""51-200""""}"",2026-07-02 "
+06:27:26.38587+00 
+"7017e622-aca8-48fa-ad01-ee5537abab9c,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0041065,90,76,""Matched skills: Go, RAG, LangChain, LLMs, "
+"Embeddings"",""{""""country"""":""""India"""",""""summary"""":""""Content Writer with 14.6+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Content Writer | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Vizag, Andhra Pradesh"""",""""current_title"""":""""Content "
+"Writer"""",""""anonymized_name"""":""""Aryan "
+"Chowdary"""",""""current_company"""":""""Infosys"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":14.6,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"2ee0fb01-45be-4cef-bc3f-c3cb229099d3,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"041669,90,77,""Matched skills: FAISS, Milvus, PEFT, QLoRA, Weaviate, "
+"Qdrant"",""{""""country"""":""""India"""",""""summary"""":""""Machine learning engineer with 8.0 years of "
+"experience building ML-powered features in production. Strong background in NLP, "
+"recommendation systems, and applied AI; comfortable across the ML stack from feature "
+"engineering through deployment. Recently, I shipped our first RAG-based feature this year "
+and now own the eval framework for it. I've spent enough time debugging production ranking 
+issues to know which signals matter and which are noise. My academic background is in 
+CS/ML but my main learning has come from shipping real systems and seeing what holds up 
+"under production load. Open to senior IC roles in applied ML or AI engineering, ideally at "
+product companies where I'd own a meaningful piece of the ML 
+"stack."""",""""headline"""":""""Recommendation Systems Engineer | Search, Ranking & "
+"Retrieval"""",""""location"""":""""Noida, Uttar Pradesh"""",""""current_title"""":""""Recommendation Systems "
+"Engineer"""",""""anonymized_name"""":""""Aisha "
+"Banerjee"""",""""current_company"""":""""CRED"""",""""current_industry"""":""""Fintech"""",""""years_of_experi"
+"ence"""":8,""""current_company_size"""":""""1001-5000""""}"",2026-07-02 06:27:26.38587+00 "
+"30e85cd0-3847-4a82-bc30-208af10ba346,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0042236,90,78,""Matched skills: LangChain, Pinecone, RAG, FAISS, "
+"LLMs"",""{""""country"""":""""India"""",""""summary"""":""""Customer Support with 14.5+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Customer Support | Generative AI "
+"explorer"""",""""location"""":""""Trivandrum, Kerala"""",""""current_title"""":""""Customer "
+"Support"""",""""anonymized_name"""":""""Yash "
+"Saxena"""",""""current_company"""":""""Infosys"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":14.5,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"6565c7e5-215c-4faa-9a3e-5ef122076fe3,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"042642,90,79,""Matched skills: LangChain, RAG, Embeddings, LLMs, "
+"Pinecone"",""{""""country"""":""""India"""",""""summary"""":""""Civil Engineer with 11.5+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Civil Engineer | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Ahmedabad, Gujarat"""",""""current_title"""":""""Civil "
+"Engineer"""",""""anonymized_name"""":""""Shreya Tiwari"""",""""current_company"""":""""Pied "
+"Piper"""",""""current_industry"""":""""Software"""",""""years_of_experience"""":11.5,""""current_company_si"
+"ze"""":""""11-50""""}"",2026-07-02 06:27:26.38587+00 "
+"6dc7b42a-739e-4d3b-9b25-4caa87790544,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0043591,90,80,""Matched skills: RAG, Embeddings, FAISS, Pinecone, LLMs, "
+"LangChain"",""{""""country"""":""""India"""",""""summary"""":""""Content Writer with 14.5+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Content Writer | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Kolkata, West Bengal"""",""""current_title"""":""""Content "
+"Writer"""",""""anonymized_name"""":""""Tanvi Naidu"""",""""current_company"""":""""Stark "
+"Industries"""",""""current_industry"""":""""Manufacturing"""",""""years_of_experience"""":14.5,""""current_co"
+"mpany_size"""":""""1001-5000""""}"",2026-07-02 06:27:26.38587+00 "
+"95c86d5c-c7a7-40b6-845a-98c1459fc909,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0045029,90,81,""Matched skills: Marketing, FAISS, LangChain, Pinecone, "
+"Embeddings"",""{""""country"""":""""USA"""",""""summary"""":""""Content Writer with 13.8+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Content Writer | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""San Francisco"""",""""current_title"""":""""Content "
+"Writer"""",""""anonymized_name"""":""""Aarohi "
+"Kapoor"""",""""current_company"""":""""Hooli"""",""""current_industry"""":""""Software"""",""""years_of_experie"
+"nce"""":13.8,""""current_company_size"""":""""1001-5000""""}"",2026-07-02 06:27:26.38587+00 "
+"ff882395-96e9-48f8-99a1-517b9c3102b0,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"045187,90,82,""Matched skills: LangChain, LLMs, Embeddings, Pinecone, "
+"FAISS"",""{""""country"""":""""India"""",""""summary"""":""""Civil Engineer with 14.9+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Civil Engineer | Generative AI "
+"explorer"""",""""location"""":""""Trivandrum, Kerala"""",""""current_title"""":""""Civil "
+"Engineer"""",""""anonymized_name"""":""""Atharv Mehta"""",""""current_company"""":""""Globex "
+"Inc"""",""""current_industry"""":""""Manufacturing"""",""""years_of_experience"""":14.9,""""current_company"
+"_size"""":""""501-1000""""}"",2026-07-02 06:27:26.38587+00 "
+"f15b0416-7f14-4278-beda-ffad71bc31a0,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_00"
+"49485,90,83,""Matched skills: Embeddings, FAISS, LLMs, Pinecone, LangChain, "
+"RAG"",""{""""country"""":""""India"""",""""summary"""":""""Content Writer with 14.6+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Content Writer | Generative AI "
+"explorer"""",""""location"""":""""Indore, Madhya Pradesh"""",""""current_title"""":""""Content "
+"Writer"""",""""anonymized_name"""":""""Kabir "
+"Banerjee"""",""""current_company"""":""""TCS"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":14.6,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"8ba323e9-ffa1-4c48-9067-d6e9d88f69cd,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"053774,90,84,""Matched skills: Rust, LLMs, Embeddings, LangChain, "
+"RAG"",""{""""country"""":""""India"""",""""summary"""":""""Civil Engineer with 11.9+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Civil Engineer | Generative AI "
+"explorer"""",""""location"""":""""Jaipur, Rajasthan"""",""""current_title"""":""""Civil "
+"Engineer"""",""""anonymized_name"""":""""Divya "
+"Menon"""",""""current_company"""":""""Initech"""",""""current_industry"""":""""Software"""",""""years_of_experie"
+"nce"""":11.9,""""current_company_size"""":""""51-200""""}"",2026-07-02 06:27:26.38587+00 "
+"76797b7c-964c-4942-abfb-887b2faec7da,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"056713,90,85,""Matched skills: Marketing, LangChain, FAISS, Pinecone, LLMs, "
+"RAG"",""{""""country"""":""""India"""",""""summary"""":""""Graphic Designer with 11.8+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Graphic Designer | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Mumbai, Maharashtra"""",""""current_title"""":""""Graphic "
+"Designer"""",""""anonymized_name"""":""""Pari "
+"Reddy"""",""""current_company"""":""""Hooli"""",""""current_industry"""":""""Software"""",""""years_of_experien"
+"ce"""":11.8,""""current_company_size"""":""""1001-5000""""}"",2026-07-02 06:27:26.38587+00 "
+"8ccfab54-0916-4da0-a2a9-089c3d2aff9b,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"059493,90,86,""Matched skills: Embeddings, LangChain, Pinecone, LLMs, "
+"RAG"",""{""""country"""":""""India"""",""""summary"""":""""Operations Manager with 11.5+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Operations Manager | Generative AI "
+"explorer"""",""""location"""":""""Gurgaon, Haryana"""",""""current_title"""":""""Operations "
+"Manager"""",""""anonymized_name"""":""""Aisha "
+"Agarwal"""",""""current_company"""":""""Wipro"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":11.5,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"2e0b33d9-8275-4f71-ae2a-227642fe6967,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0059701,90,87,""Matched skills: Rust, RAG, LangChain, Pinecone, "
+"FAISS"",""{""""country"""":""""India"""",""""summary"""":""""Mechanical Engineer with 13.7+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Mechanical Engineer | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Chennai, Tamil Nadu"""",""""current_title"""":""""Mechanical "
+"Engineer"""",""""anonymized_name"""":""""Pooja "
+"Pandey"""",""""current_company"""":""""Infosys"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":13.7,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"21970fd0-54d0-4b19-ba92-3bf5f4390539,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"062697,90,88,""Matched skills: Marketing, Embeddings, FAISS, LangChain, RAG, "
+"LLMs"",""{""""country"""":""""India"""",""""summary"""":""""Project Manager with 11.7+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Project Manager | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Indore, Madhya Pradesh"""",""""current_title"""":""""Project "
+"Manager"""",""""anonymized_name"""":""""Myra Iyengar"""",""""current_company"""":""""Acme "
+"Corp"""",""""current_industry"""":""""Manufacturing"""",""""years_of_experience"""":11.7,""""current_compa"
+"ny_size"""":""""201-500""""}"",2026-07-02 06:27:26.38587+00 "
+"c064569e-97e0-4d4d-8282-69a752f3ff15,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"063431,90,89,""Matched skills: Go, Pinecone, Embeddings, LLMs, LangChain, "
+"FAISS"",""{""""country"""":""""India"""",""""summary"""":""""Business Analyst with 12.3+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Business Analyst | Generative AI "
+"explorer"""",""""location"""":""""Pune, Maharashtra"""",""""current_title"""":""""Business "
+"Analyst"""",""""anonymized_name"""":""""Saanvi Khanna"""",""""current_company"""":""""Pied "
+"Piper"""",""""current_industry"""":""""Software"""",""""years_of_experience"""":12.3,""""current_company_si"
+"ze"""":""""11-50""""}"",2026-07-02 06:27:26.38587+00 "
+"be9a92c7-dfcc-4b6d-bf15-c74dadb5c7b2,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"063541,90,90,""Matched skills: Rust, LangChain, RAG, LLMs, FAISS, Embeddings, "
+"Pinecone"",""{""""country"""":""""India"""",""""summary"""":""""Project Manager with 11.0+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Project Manager | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Indore, Madhya Pradesh"""",""""current_title"""":""""Project "
+"Manager"""",""""anonymized_name"""":""""Vikram "
+"Patel"""",""""current_company"""":""""Initech"""",""""current_industry"""":""""Software"""",""""years_of_experien"
+"ce"""":11,""""current_company_size"""":""""51-200""""}"",2026-07-02 06:27:26.38587+00 "
+"d8846910-de0c-44e0-952e-0041f8c8a95b,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0063794,90,91,""Matched skills: LLMs, Embeddings, RAG, Pinecone, "
+"FAISS"",""{""""country"""":""""Germany"""",""""summary"""":""""Sales Executive with 14.8+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Sales Executive | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Berlin"""",""""current_title"""":""""Sales "
+"Executive"""",""""anonymized_name"""":""""Arnav "
+"Gupta"""",""""current_company"""":""""Hooli"""",""""current_industry"""":""""Software"""",""""years_of_experien"
+"ce"""":14.8,""""current_company_size"""":""""1001-5000""""}"",2026-07-02 06:27:26.38587+00 "
+"e239b464-864b-48af-95cf-bed3ebce42d2,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"065111,90,92,""Matched skills: Go, LLMs, Pinecone, RAG, "
+"LangChain"",""{""""country"""":""""India"""",""""summary"""":""""HR Manager with 12.8+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""HR Manager | Generative AI "
+"explorer"""",""""location"""":""""Mumbai, Maharashtra"""",""""current_title"""":""""HR "
+"Manager"""",""""anonymized_name"""":""""Siya Iyengar"""",""""current_company"""":""""Pied "
+"Piper"""",""""current_industry"""":""""Software"""",""""years_of_experience"""":12.8,""""current_company_si"
+"ze"""":""""11-50""""}"",2026-07-02 06:27:26.38587+00 "
+"ae6c7368-36bc-4a75-8bbf-f01c91afdf0e,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_00"
+"65530,90,93,""Matched skills: Go, Pinecone, LangChain, FAISS, Embeddings, RAG, "
+"LLMs"",""{""""country"""":""""India"""",""""summary"""":""""Marketing Manager with 13.6+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Marketing Manager | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Jaipur, Rajasthan"""",""""current_title"""":""""Marketing "
+"Manager"""",""""anonymized_name"""":""""Aanya "
+"Desai"""",""""current_company"""":""""Infosys"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":13.6,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"7fc7bcf6-d089-482e-a4a0-3f96b48f0bb2,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_00"
+"67226,90,94,""Matched skills: Embeddings, RAG, LLMs, FAISS, "
+"Pinecone"",""{""""country"""":""""India"""",""""summary"""":""""Operations Manager with 11.4+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Operations Manager | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Bangalore, Karnataka"""",""""current_title"""":""""Operations "
+"Manager"""",""""anonymized_name"""":""""Arnav "
+"Dalal"""",""""current_company"""":""""Initech"""",""""current_industry"""":""""Software"""",""""years_of_experien"
+"ce"""":11.4,""""current_company_size"""":""""51-200""""}"",2026-07-02 06:27:26.38587+00 "
+"b119e05c-8372-4292-9788-0bee0ab07d3d,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0070036,90,95,""Matched skills: Rust, Embeddings, LLMs, RAG, FAISS, "
+"Pinecone"",""{""""country"""":""""Germany"""",""""summary"""":""""Graphic Designer with 11.6+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Graphic Designer | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Berlin"""",""""current_title"""":""""Graphic "
+"Designer"""",""""anonymized_name"""":""""Pari "
+"Hegde"""",""""current_company"""":""""Wipro"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":11.6,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
+"2fd9f3ce-ad3d-4708-a675-3e178e6ae17c,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"073208,90,96,""Matched skills: FAISS, Pinecone, LLMs, LangChain, "
+"Embeddings"",""{""""country"""":""""India"""",""""summary"""":""""Content Writer with 11.0+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Content Writer | AI enthusiast | Building with "
+"LLMs"""",""""location"""":""""Kochi, Kerala"""",""""current_title"""":""""Content "
+"Writer"""",""""anonymized_name"""":""""Atharv Dalal"""",""""current_company"""":""""Pied "
+"Piper"""",""""current_industry"""":""""Software"""",""""years_of_experience"""":11,""""current_company_size"
+""""":""""11-50""""}"",2026-07-02 06:27:26.38587+00 "
+"753704c5-6251-4f13-8981-1575c01c75cb,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_"
+"0074037,90,97,""Matched skills: Embeddings, LangChain, Pinecone, LLMs, "
+"RAG"",""{""""country"""":""""India"""",""""summary"""":""""Business Analyst with 10.7+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Business Analyst | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Noida, Uttar Pradesh"""",""""current_title"""":""""Business "
+"Analyst"""",""""anonymized_name"""":""""Mira Agarwal"""",""""current_company"""":""""Wayne "
+"Enterprises"""",""""current_industry"""":""""Conglomerate"""",""""years_of_experience"""":10.7,""""current_c"
+"ompany_size"""":""""10001+""""}"",2026-07-02 06:27:26.38587+00 "
+"5e54944a-a0c8-46ac-9ffd-f21087287e10,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"074657,90,98,""Matched skills: Go, LangChain, RAG, Embeddings, FAISS, LLMs, "
+"Pinecone"",""{""""country"""":""""India"""",""""summary"""":""""Civil Engineer with 12.5+ years of experience "
+driving outcomes in my domain. I have built strong functional expertise in the typical 
+"responsibilities of the role, including team management, stakeholder communication, and "
+project delivery. Recently I've been excited about how AI and GenAI tools can augment my 
+"work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Civil Engineer | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Kolkata, West Bengal"""",""""current_title"""":""""Civil "
+"Engineer"""",""""anonymized_name"""":""""Sunil Chowdary"""",""""current_company"""":""""Pied "
+"Piper"""",""""current_industry"""":""""Software"""",""""years_of_experience"""":12.5,""""current_company_si"
+"ze"""":""""11-50""""}"",2026-07-02 06:27:26.38587+00 "
+"0b757332-3e79-4ae1-8dbe-0a5f5a01cb5f,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_0"
+"074942,90,99,""Matched skills: Marketing, LLMs, LangChain, FAISS, Embeddings, RAG, "
+"Pinecone"",""{""""country"""":""""India"""",""""summary"""":""""Project Manager with 14.6+ years of "
+experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Project Manager | Exploring AI & GenAI "
+"applications"""",""""location"""":""""Indore, Madhya Pradesh"""",""""current_title"""":""""Project "
+"Manager"""",""""anonymized_name"""":""""Suresh Saxena"""",""""current_company"""":""""Wayne "
+"Enterprises"""",""""current_industry"""":""""Conglomerate"""",""""years_of_experience"""":14.6,""""current_c"
+"ompany_size"""":""""10001+""""}"",2026-07-02 06:27:26.38587+00 "
+"6df31877-f0bd-4f3f-94e3-3893231fc90e,ec3bba2b-dffb-49ef-93b3-a4c2c4cced6e,CAND_00"
+"76458,90,100,""Matched skills: Rust, Marketing, Pinecone, RAG, LLMs, Embeddings, "
+"LangChain, FAISS"",""{""""country"""":""""India"""",""""summary"""":""""Graphic Designer with 11.9+ years "
+of experience driving outcomes in my domain. I have built strong functional expertise in the 
+"typical responsibilities of the role, including team management, stakeholder communication, "
+and project delivery. Recently I've been excited about how AI and GenAI tools can augment 
+"my work. I've been taking online courses on RAG and vector databases, experimenting with "
+"LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline "
+workflows in my current function. Open to roles that combine my existing domain experience 
+with emerging AI technologies — I think the most interesting opportunities are at this 
+intersection. Looking for positions where I can contribute both my functional expertise and 
+"grow my AI capabilities."""",""""headline"""":""""Graphic Designer | Generative AI "
+"explorer"""",""""location"""":""""Indore, Madhya Pradesh"""",""""current_title"""":""""Graphic "
+"Designer"""",""""anonymized_name"""":""""Aditya "
+"Subramanian"""",""""current_company"""":""""Infosys"""",""""current_industry"""":""""IT "
+"Services"""",""""years_of_experience"""":11.9,""""current_company_size"""":""""10001+""""}"",2026-07-02 "
+06:27:26.38587+00 
